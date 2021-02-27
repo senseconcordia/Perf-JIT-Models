@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1614109890004.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "51DEB563",
+    "lastKnownWriteTime" : 1602189070,
+    "last_content_update" : 1602189070,
+    "path" : "~/Downloads/help pls/kfold.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "79,66",
+        "scrollLine" : "72"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

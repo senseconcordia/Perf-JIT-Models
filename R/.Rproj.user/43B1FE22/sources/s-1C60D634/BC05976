@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1614040935958.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BC05976",
+    "lastKnownWriteTime" : 1614110336,
+    "last_content_update" : 1614211322061,
+    "path" : "~/Desktop/Projects/rq1 rq2 rq1 verified/R/kfold.R",
+    "project_path" : "kfold.R",
+    "properties" : {
+        "cursorPosition" : "43,13",
+        "scrollLine" : "37"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
